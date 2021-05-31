@@ -1,5 +1,5 @@
 ## Jonas Oliveira
-[![Github Badge](https://github.com/jonasoliveira-developer)]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonasoliveira-developer)](https://github.com/jonasoliveira-developer)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-a482041b2/)](https://www.linkedin.com/in/david-santos-a482041b2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dvdsantos@gmail.com)](mailto:contato.dvdsantos@gmail.com)
 ### Opa, tudo certo?
