@@ -1,7 +1,8 @@
 **# Olá!**
-	 **Sou Jonas Oliveira, 
+	 **Sou Jonas Oliveira,** 
+	 
 	   estou iniciando meus estudos
-	   em DESENVOLVIMENTO WEB.**
+	   em DESENVOLVIMENTO WEB.
 	 
 	   Estou disposto a aprender e futuramente contrubuir
 	   nesse universo fantástico da programação.
