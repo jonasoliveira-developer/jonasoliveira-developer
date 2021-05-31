@@ -1,12 +1,10 @@
 ## Jonas Oliveira
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonasoliveira-developer)](https://github.com/jonasoliveira-developer)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-a482041b2/)](https://www.linkedin.com/in/david-santos-a482041b2/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dvdsantos@gmail.com)](mailto:contato.dvdsantos@gmail.com)
-### Opa, tudo certo?
-Meu nome é David, eu sou Bacharel em Ciência e Tecnologia, atualmente Residente em Software no TRE e sigo minha caminhada transformando chocolate em código!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-oliveira-abb55b212/)](https://www.linkedin.com/in/jonas-oliveira-abb55b212/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasoliveira.webdeveloper@gmail.com)](mailto:jonasoliveira.webdeveloper@gmail.com)
+### Hello World?
+Sou o Jonas, estudante Front-End, em busca da primeira oportunidade de aprender,evoluir e contribuir junto a um time!
 - 👨🏻‍💻 Front-end Jr.
-- 🔍 Atualmente aberto a novas oportunidades.
-- 📰 Trabalho com a stack Node.js, React e React-Native.
-- 📡 Neste momento busco colaborar com projetos Front-end.
-- 💬 Sobre mim: Aficionado por games, séries de comédia e astronomia!!
+- 🔍 Atualmente aberto a oportunidades.
+- 📰 Estudando HTML,CSS,JAVASCRIPT.
 
