@@ -6,5 +6,5 @@
 Sou o Jonas, estudante Front-End, em busca da primeira oportunidade de aprender,evoluir e contribuir junto a um time!
 - 👨🏻‍💻 Front-end Jr.
 - 🔍 Atualmente aberto a oportunidades.
-- 📰 Estudando HTML,CSS,JAVASCRIPT.
+- 📰 HTML, CSS ,JAVASCRIPT, NODE.JS, MONGO.DB. ATUALMENTE ESTUDANDO REACT.JS
 
