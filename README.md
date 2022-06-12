@@ -9,15 +9,15 @@
 ### 🔍 Atualmente aberto a oportunidades.
 ### 📰 Conhecimentos em:
  <ul>
-    <li>HTML</li>
-    <li> CSS</li>
-    <li>JAVASCRIPT</li>
-    <li>REACTJS</li>
-    <li>TYPESCRIPT</li>
-    <li>NODEJS</li>
-    <li>SQL(POSTGRES)</li>
-    <li>NOSQL(MONGODB)</li>
- </ul>
+    - HTML
+    - CSS
+    - JAVASCRIPT
+    - TYPESCRIPT
+    - NODEJS
+    - JAVA/SPRING BOOT
+    - MYSQL 
+    - MONGODB
+ 
   
 
 
