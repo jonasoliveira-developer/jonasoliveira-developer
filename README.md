@@ -1,23 +1,22 @@
-## Jonas Oliveira
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jonasoliveira-developer)](https://github.com/jonasoliveira-developer)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-santos-de-oliveira-abb55b212/)](https://www.linkedin.com/in/jonas-santos-de-oliveira-abb55b212/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasoliveira.webdeveloper@gmail.com)](mailto:jonasoliveira.webdeveloper@gmail.com)
-### Hello World?
-- Sou o Jonas , Estudante de Análise e Desenvolvimento de Sistemas.Gosto muito de animes e de ler. Sou comprometido com datas e prazos,e me dou muito em grupo.Gosto de ajudar as pessoas e sou aberto a receber ajudas. Minha principal qualidade é a resiliencia, por mais que algo me abata eu não desisto.
 
-### 👨🏻‍💻 Front-end Jr.
-### 🔍 Atualmente aberto a oportunidades.
-### 📰 Conhecimentos em:
- <ul>
-    - HTML
-    - CSS
-    - JAVASCRIPT
-    - TYPESCRIPT
-    - NODEJS
-    - JAVA/SPRING BOOT
-    - MYSQL 
-    - MONGODB
- 
-  
+
+### Olá! Sou o Jonas Oliveira ❤️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-santos-de-oliveira-abb55b212/)
+
+
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasoliveira-developer&show_icons=true&theme=highcontrast)
+
+## Tecnologias que eu trabalho
+
+<div style="display:inline_block"><br>
+ <img align="center" alt="angular framework" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" >
+ <img align="center" alt="angular framework" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
+ <img align="center" alt="angular framework" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
+ <img align="center" alt="angular framework" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" >
+ <img align="center" alt="angular framework" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+</div><br>
+
+Apaixonado por tecnologia me motivo em criar soluções tecnologicas que impactem positivamente a vida das pessoas!!
 
 
