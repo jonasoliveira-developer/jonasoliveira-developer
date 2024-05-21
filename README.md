@@ -10,7 +10,7 @@
 ## Tecnologias que eu trabalho
 
 <div style="display:inline_block"><br>
- <img align="center" alt="angular framework" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" >
+ <img align="center" alt="angular framework" src="https://img.shields.io/badge/Nextjs-DD0031?style=for-the-badge&logo=angular&logoColor=white" >
  <img align="center" alt="angular framework" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
  <img align="center" alt="angular framework" src="https://img.shields.io/badge/Nodejs-6DB33F?style=for-the-badge&logo=typescript&logoColor=white" >
  <img align="center" alt="angular framework" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
